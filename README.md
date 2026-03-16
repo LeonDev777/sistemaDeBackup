@@ -1,7 +1,6 @@
 # pg-backup-system
 
-Scripts de backup e restore para PostgreSQL. Desenvolvido pra uso em ambientes de produção onde você precisa de algo confiável, simples de manter e fácil de entender quando a merda bate no ventilador às 3 da manhã.
-
+Scripts de backup e restore para PostgreSQL. Desenvolvido pra uso em ambientes de produção onde você precisa de algo confiável, simples de manter e fácil de entender 
 Nada de frameworks exóticos, nada de dependências desnecessárias. Shell script + pg_dump + cron. Funciona.
 
 ---
